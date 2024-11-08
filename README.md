@@ -1,1 +1,1 @@
-'onerror='alert("XSS")''
+</textarea>'onerror='alert("XSS")''
